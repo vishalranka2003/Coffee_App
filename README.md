@@ -15,11 +15,13 @@ Quantity Selection: Adjust the quantity of each coffee product in the cart to su
 Total Calculation: Dynamically calculate the total cost of the items in the cart, providing a transparent overview.
 Smooth User Experience: Benefit from a smooth and visually appealing interface that enhances the overall user experience.
 Responsive Design: Enjoy a seamless experience across multiple devices, ensuring accessibility from smartphones to tablets.
+
+
 Technology Stack:
 
 Flutter: The app is developed using Flutter, a powerful and flexible framework for building cross-platform applications.
 Dart: The programming language used to write the application logic and handle interactions.
-Firebase: Leveraged for backend functionalities such as data storage and retrieval, ensuring efficient and secure operations.
+
 Whether you're a coffee aficionado or simply seeking a convenient way to manage your coffee shopping, this Coffee Cart Flutter App offers an immersive and delightful experience. Join the journey today and brew your coffee dreams with a touch of innovation.
 
 
