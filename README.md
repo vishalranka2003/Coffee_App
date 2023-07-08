@@ -29,7 +29,7 @@ Whether you're a coffee aficionado or simply seeking a convenient way to manage 
 1. Clone the repository:
 
    ```bash
-   https://github.com/vishalranka2003/Coffee_App
+   git clone https://github.com/vishalranka2003/Coffee_App
 
 
 2. Install the dependencies:
