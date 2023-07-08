@@ -1,4 +1,4 @@
-# "Coffee Cart Flutter App"
+# "CoffeeCraze"
 
 "Coffee Cart Flutter App"
 A new Flutter project.
@@ -19,10 +19,30 @@ Responsive Design: Enjoy a seamless experience across multiple devices, ensuring
 
 Technology Stack:
 
-Flutter: The app is developed using Flutter, a powerful and flexible framework for building cross-platform applications.
-Dart: The programming language used to write the application logic and handle interactions.
+- Flutter: The app is developed using Flutter, a powerful and flexible framework for building cross-platform applications.
+- Dart: The programming language used to write the application logic and handle interactions.
 
 Whether you're a coffee aficionado or simply seeking a convenient way to manage your coffee shopping, this Coffee Cart Flutter App offers an immersive and delightful experience. Join the journey today and brew your coffee dreams with a touch of innovation.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/vishalranka2003/Coffee_App
+
+
+2. Install the dependencies:
+   ```bash
+   flutter pub get
+
+3. Start the application:
+   ```bash
+   flutter run
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
 
