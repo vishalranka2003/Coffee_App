@@ -1,4 +1,4 @@
-# coffee
+# "Coffee Cart Flutter App"
 
 "Coffee Cart Flutter App"
 A new Flutter project.
